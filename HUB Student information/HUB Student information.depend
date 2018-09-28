@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1520617964 source:f:\hub student information\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+
